@@ -6,7 +6,7 @@ Já atuei em varios processos de grandes empresas, como: GOL, Microsoft, entre o
 
 Desde momento estou me especializando mais na área tech para apresentar mais soluções.
 
-## Nesse momento estou aprendendo.
+## Estou aprendendo.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
