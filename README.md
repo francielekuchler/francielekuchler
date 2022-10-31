@@ -1,7 +1,7 @@
 ## Hello, Devs!!
 # Seja muito bem vindo e muito bem vinda 
 
-Sou fundadora da Madil uma empresa especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter
+Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter
 Já atuei em varios processos de grandes empresas, como: GOL, Microsoft, entre outras. 
 
 Desde momento estou me especializando mais na área tech para apresentar mais soluções.
