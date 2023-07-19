@@ -2,13 +2,18 @@
 # Seja muito bem vindo e muito bem vinda 
 
 Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter
-Já atuei em varios processos de grandes empresas, como: GOL, Microsoft, entre outras. 
+Já atuei em varios processos de grandes empresas. 
 
 Desde momento estou me especializando mais na área tech para apresentar mais soluções.
 
-## Estou aprendendo.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+# Conteúdos que pode te ajudar na busca de uma boa oportunidade 
+
+⏰ [Como usar o gerenciamento de tempo para reduzir o estresse](https://web.dio.me/articles/como-usar-o-gerenciamento-de-tempo-para-reduzir-o-estresse?back=%2Farticles&page=1&order=oldest)
+
+📄 [Listas de Habilidades interpessoais (Soft Skills) para agregar no seu currículo.](https://web.dio.me/articles/listas-de-habilidades-interpessoais-soft-skills-para-agregar-no-seu-curriculo?back=%2Farticles&page=1&order=oldest)
+
+🧠 [5 maneiras de mostrar inteligência emocional em seu currículo](https://web.dio.me/articles/5-maneiras-de-mostrar-inteligencia-emocional-em-seu-curriculo?back=%2Farticles&page=1&order=oldest)
 
 Quero muito criar conexões e aprender cada vez mais com você. 
 
