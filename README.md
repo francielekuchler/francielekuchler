@@ -9,7 +9,7 @@ Desde momento estou me especializando mais na área tech para apresentar mais so
 
 # Conteúdos que pode te ajudar na busca de uma boa oportunidade 
 
-⏰ [Como usar o gerenciamento de tempo para reduzir o estresse](https://web.dio.me/articles/como-usar-o-gerenciamento-de-tempo-para-reduzir-o-estresse?back=%2Farticles&page=1&order=oldest)
+🕒 [Como usar o gerenciamento de tempo para reduzir o estresse](https://web.dio.me/articles/como-usar-o-gerenciamento-de-tempo-para-reduzir-o-estresse?back=%2Farticles&page=1&order=oldest)
 
 📄 [Listas de Habilidades interpessoais (Soft Skills) para agregar no seu currículo.](https://web.dio.me/articles/listas-de-habilidades-interpessoais-soft-skills-para-agregar-no-seu-curriculo?back=%2Farticles&page=1&order=oldest)
 
