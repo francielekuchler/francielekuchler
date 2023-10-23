@@ -1,4 +1,4 @@
-## Hello, Devs!!
+## Hello, tech's!!
 # Seja muito bem vindo e muito bem vinda 
 
 Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter
@@ -21,5 +21,5 @@ Quero muito criar conexões e aprender cada vez mais com você.
 
 <div>
 <a href = "mailto:fraciele.kuchler@grupomadil.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mentoringtech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "https://www.linkedin.com/in/francielekuchler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
