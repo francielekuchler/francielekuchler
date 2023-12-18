@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+## Olá, Tech's! Bom te ver por aqui
+
 <p align="left"> 
   Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos.
   
