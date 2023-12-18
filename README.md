@@ -1,25 +1,41 @@
-## Hello, tech's!!
-# Seja muito bem vindo e muito bem vinda 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter
+<p align="left"> 
+  Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos como headhunter.
+  
 Já atuei em varios processos de grandes empresas. 
-
 Desde momento estou me especializando mais na área tech para apresentar mais soluções.
+</p>
+
+<p align="left">
+  🦄 Linguagens que estou estudando no momento: Python
+</p>
 
 
-# Conteúdos que pode te ajudar na busca de uma boa oportunidade 
+<p align="left">
+  💌 Entre agora mesmo em contato comigo: ⤵️
+</p>
 
-🕒 [Como usar o gerenciamento de tempo para reduzir o estresse](https://web.dio.me/articles/como-usar-o-gerenciamento-de-tempo-para-reduzir-o-estresse?back=%2Farticles&page=1&order=oldest)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=franciele@madil.io" alt="Gmail"/></a>
 
-📄 [Listas de Habilidades interpessoais (Soft Skills) para agregar no seu currículo.](https://web.dio.me/articles/listas-de-habilidades-interpessoais-soft-skills-para-agregar-no-seu-curriculo?back=%2Farticles&page=1&order=oldest)
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/francielekuchler/)" alt="LinkedIn"/></a>
 
-🧠 [5 maneiras de mostrar inteligência emocional em seu currículo](https://web.dio.me/articles/5-maneiras-de-mostrar-inteligencia-emocional-em-seu-curriculo?back=%2Farticles&page=1&order=oldest)
 
-Quero muito criar conexões e aprender cada vez mais com você. 
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
-## Contatos:
 
-<div>
-<a href = "mailto:fraciele.kuchler@grupomadil.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/francielekuchler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
