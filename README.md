@@ -11,6 +11,16 @@ Desde momento estou me especializando mais na área tech para apresentar mais so
   🦄 Linguagens que estou estudando no momento: Python
 </p>
 
+## Uma seleção especial de conteúdos que pode te ajudar 
+
+[Passo a passo de como elaborar seu currículo iniciando na área tech](https://x.com/senhoritha/status/1722947477974773919?s=20)
+
+[Está em transição de carreira? criei esse guia do currículo especialmente para você](https://x.com/senhoritha/status/1725476690481037529?s=20)
+
+[Como eleborar um curriculo para senior](https://x.com/senhoritha/status/1726564508922208612?s=20)
+
+[4 passos simples para preparar sua carreira para o futuro](https://www.linkedin.com/pulse/4-passos-simples-para-preparar-sua-carreira-o-futuro-k%25C3%25BCchler/?trackingId=gcy%2BQ0doSM6MMmfSfvdRAQ%3D%3D)
+
 
 <p align="left">
   💌 Entre agora mesmo em contato comigo: ⤵️
