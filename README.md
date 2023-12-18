@@ -6,7 +6,7 @@
   Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos.
   
 Já atuei em varios processos de grandes empresas. 
-Desde momento estou me especializando mais na área tech para apresentar mais soluções.
+Deste momento estou me especializando mais na área tech para apresentar mais soluções.
 </p>
 
 <p align="left">
