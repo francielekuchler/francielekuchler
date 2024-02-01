@@ -29,7 +29,7 @@ Deste momento estou me especializando mais na área tech para apresentar mais so
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/francielekuchler/)
-[![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:franciele@madil.io)
+[![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciele@madil.io)](mailto:franciele@madil.io)
 
 
 <div align="center">
