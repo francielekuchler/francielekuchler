@@ -3,14 +3,13 @@
 ## Olá, Tech's! Bom te ver por aqui
 
 <p align="left"> 
-  Especializada em R&S e desenvolvimento focada na área tech, tenho uma experiência de mais de 5 anos.
+  Com mais de 6 anos de experiência em recrutamento e seleção, especialmente na área de tecnologia, trago uma visão única para o desenvolvimento de soluções que conectam talentos a oportunidades estratégicas.
   
-Já atuei em varios processos de grandes empresas. 
-Deste momento estou me especializando mais na área tech para apresentar mais soluções.
+Atualmente, estou focando conhecimentos em Java e outras tecnologias para expandir meu portfólio de habilidades e contribuir ainda mais para a inovação das empresas.
 </p>
 
 <p align="left">
-  🦄 Linguagens que estou estudando no momento: Python
+  🦄 Linguagens que estou estudando no momento: Java
 </p>
 
 ## Uma seleção especial de conteúdos que pode te ajudar (EM BREVE)
