@@ -14,9 +14,9 @@ Estou em transição de carreira para me tornar desenvolvedora Java. Com mais de
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ## 👥 Projetos e Iniciativas:
-- Desenvolvi um currículo estratégico e otimizado para sistemas ATS, que já ajudou muitos profissionais de tecnologia a se destacarem em processos seletivos e conquistarem vagas em empresas renomadas.
+- Desenvolvi modelos de currículos estratégico e otimizado para sistemas ATS, que já ajudou muitos profissionais de tecnologia a se destacarem em processos seletivos e conquistarem vagas.
 
-- Fundei uma comunidade com mais de 2 mil membros, voltada ao crescimento de profissionais de tecnologia. Oferecemos mentorias gratuitas/pagas sobre criação e otimização de currículos, perfis no LinkedIn, estratégias de networking, preparação para entrevistas e planejamento de carreira ajudando nossos membros a alcançar seus objetivo.
+- Fundei uma comunidade com mais de 2 mil membros, voltada ao crescimento de profissionais de tecnologia. Oferecemos mentorias gratuitas/pagas sobre criação e otimização de currículos, perfis no LinkedIn, estratégias de networking, preparação para entrevistas e planejamento de carreira ajudando nossos membros a alcançar seus objetivos.
 
 ## Entre em contato ⤵️⤵️
 
