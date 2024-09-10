@@ -1,19 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, Tech's! Bom te ver por aqui
+## <p align="center">  Olá, Tech's! Bom te ver por aqui 💜 
 
-<p align="left"> 
-  Com mais de 6 anos de experiência em recrutamento e seleção, especialmente na área de tecnologia, trago uma visão única para o desenvolvimento de soluções que conectam talentos a oportunidades estratégicas.
-  
-Atualmente, estou focando conhecimentos em Java e outras tecnologias para expandir meu portfólio de habilidades e contribuir ainda mais para a inovação das empresas.
+<p align="rigth"> 
+Estou em transição de carreira para me tornar desenvolvedora Java. Com mais de 6 anos de experiência em recrutamento e seleção, especialmente na área de tecnologia, adquiri uma visão única sobre como conectar talentos a oportunidades estratégicas. Agora, estou me aprofundando em outras tecnologias para expandir minhas habilidades técnicas e, assim, contribuir de maneira ainda mais significativa para a inovação nas empresas.
 </p>
 
 
-## Uma seleção especial de conteúdos que pode te ajudar (EM BREVE)
+## 🚀 O que estou apredendo: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)<br><br>
 
-<p align="left">
-  💌 Entre agora mesmo em contato comigo: ⤵️
-</p>
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+
+## 👥 Projetos e Iniciativas:
+- Desenvolvi um currículo estratégico e otimizado para sistemas ATS, que já ajudou muitos profissionais de tecnologia a se destacarem em processos seletivos e conquistarem vagas em empresas renomadas.
+
+- Fundei uma comunidade com mais de 2 mil membros, voltada ao crescimento de profissionais de tecnologia. Oferecemos mentorias gratuitas/pagas sobre criação e otimização de currículos, perfis no LinkedIn, estratégias de networking, preparação para entrevistas e planejamento de carreira ajudando nossos membros a alcançar seus objetivo.
+
+## Entre em contato ⤵️⤵️
 
 [![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/francielekuchler/)
 [![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciele@madil.io)](mailto:franciele@madil.io)
@@ -29,3 +34,4 @@ Atualmente, estou focando conhecimentos em Java e outras tecnologias para expand
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
