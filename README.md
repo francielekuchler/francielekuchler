@@ -8,9 +8,6 @@
 Atualmente, estou focando conhecimentos em Java e outras tecnologias para expandir meu portfólio de habilidades e contribuir ainda mais para a inovação das empresas.
 </p>
 
-<p align="left">
-  🦄 Linguagens que estou estudando no momento: Java
-</p>
 
 ## Uma seleção especial de conteúdos que pode te ajudar (EM BREVE)
 
