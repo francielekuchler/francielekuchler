@@ -1,24 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## <p align="center">  Olá, Tech's! Bom te ver por aqui 💜 
+## <p align="center">  Hi, Techs! Great to see you here. 💜 
 
 <p align="rigth"> 
-Estou em transição de carreira para me tornar desenvolvedora Java. Com mais de 6 anos de experiência em recrutamento e seleção, especialmente na área de tecnologia, adquiri uma visão única sobre como conectar talentos a oportunidades estratégicas. Agora, estou me aprofundando em outras tecnologias para expandir minhas habilidades técnicas e, assim, contribuir de maneira ainda mais significativa para a inovação nas empresas.
+I’m currently transitioning my career to become a Java developer. With over 6 years of experience in recruitment and selection, particularly in the tech industry, I've gained a unique perspective on connecting talent with strategic opportunities. Now, I’m diving into new technologies to broaden my technical skills and contribute even more effectively to innovation within companies.
 </p>
 
 
-## 🚀 O que estou apredendo: 
+## 🚀 What I'm learning: 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
-## 👥 Projetos e Iniciativas:
-- Desenvolvi modelos de currículos estratégico e otimizado para sistemas ATS, que já ajudou muitos profissionais de tecnologia a se destacarem em processos seletivos e conquistarem vagas.
+## 👥 Projects and Initiatives:
+- I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
 
-- Fundei uma comunidade com mais de 2 mil membros, voltada ao crescimento de profissionais de tecnologia. Oferecemos mentorias gratuitas/pagas sobre criação e otimização de currículos, perfis no LinkedIn, estratégias de networking, preparação para entrevistas e planejamento de carreira ajudando nossos membros a alcançar seus objetivos.
+- I founded a community with over 2,000 members focused on helping tech professionals grow. We offer free and paid mentorships on resume creation and optimization, LinkedIn profile building, networking strategies, interview preparation, and career planning, helping our members achieve their goals.
 
-## Entre em contato ⤵️⤵️
+## Don't hesitate to contact me. ⤵️⤵️
 
 [![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/francielekuchler/)
 [![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciele@madil.io)](mailto:franciele@madil.io)
