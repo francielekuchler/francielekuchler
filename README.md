@@ -11,7 +11,7 @@ I’m currently transitioning my career to become a Java developer. With over 6 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ## 👥 Projects and Initiatives:
 - I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
