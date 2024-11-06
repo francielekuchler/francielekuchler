@@ -3,7 +3,14 @@
 ## <p align="center">  Hi, Techs! Great to see you here. 💜 
 
 <p align="rigth"> 
-I’m currently transitioning my career to become a Java developer. With over 6 years of experience in recruitment and selection, particularly in the tech industry, I've gained a unique perspective on connecting talent with strategic opportunities. Now, I’m diving into new technologies to broaden my technical skills and contribute even more effectively to innovation within companies.
+Hey there! I’m an executive headhunter and career mentor with 7+ years of experience helping people and companies find their path.
+
+I’m all about developing and connecting talent, especially in tech, where the growth and innovation potential is huge. I’m diving deeper into tech myself to bring fresh insights and add real value to my work.
+
+Whether it’s guiding a career shift or building rock-solid teams, I’m committed to high-impact results and genuine growth.
+
+Ready to make big moves together? 🌹
+
 </p>
 
 
