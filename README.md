@@ -28,17 +28,7 @@ Ready to make big moves together? 🌹
 ## Don't hesitate to contact me. ⤵️⤵️
 
 [![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/francielekuchler/)
-[![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciele@madil.io)](mailto:franciele@madil.io)
 
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/francielekuchler/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
 
